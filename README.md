@@ -1,4 +1,4 @@
-# ✨ Люси AI v5.3
+# ✨ Люси AI v5.3 test 1
 
 <img width="250" height="250" alt="LUCY-AI" src="https://github.com/user-attachments/assets/95925136-3959-48bc-8fd4-21372e86fbef" />
 
